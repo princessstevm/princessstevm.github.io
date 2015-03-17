@@ -2,11 +2,12 @@
 layout: post
 category: novelty
 title: Jupiter Ascending (2005)
+tags: ★½☆☆☆
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★ 1/2
+p(meta). Star rating: ★½☆☆☆
 
 I had the misfortune of viewing this film at the UA IMAX theatre in Hong Kong airport. As a testament to the power of branding, I was initially rather excited as my experiences with the IMAX theatre in Sydney had been rather pleasant but soon after my purchase, I found that my popcorn was damp - much like my spirits.
 

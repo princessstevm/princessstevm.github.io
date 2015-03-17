@@ -2,11 +2,12 @@
 layout: post
 category: film
 title: Virgin Snow (2007)
+tags: ★☆☆☆☆
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★
+p(meta). Star rating: ★☆☆☆☆
 
 
 
