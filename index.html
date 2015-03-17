@@ -6,7 +6,8 @@ title: im write movie
 <div id="home">
   <h1>Film reviews</h1>
   <ul class="posts">
-    {% for post in site.category[film] %}
+  {% for post in site.posts %}
+  <!--  {% for post in site.category[film] %} -->
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
