@@ -1,0 +1,20 @@
+---
+layout: post
+category: novelty
+title: Jupiter Ascending
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: 1.5 / 5
+
+I had the misfortune of viewing this film at the UA IMAX theatre in Hong Kong airport. As a testament to the power of branding, I was initially rather excited as my experiences with the IMAX theatre in Sydney had been rather pleasant but soon after my purchase, I found that my popcorn was damp - much like my spirits.
+
+The theatre itself was hardly an improvement - the replication of the original sound stage was beyond poor; the audio was, for all intents and purposes, monophonic and may have been produced by a motor vehicle parked behind the screen (I'll not be taking bets on this). I suspect that the owners had cut costs in the construction of this theatre as repeat customers are unlikely, given the location.
+
+While the theatre experience is unequivocally superior to a home viewing (or, as I've come to observe in Hong Kong, the watch-on-smartphone-while-standing-on-a-train experience), I often find myself at the mercy of my fellow moviegoers. In this area, perhaps I am something of a hypocrite as I'm quite fond of acting out particularly exciting cinematic moments - the scene in "Lucy" in which Scarlett Johannson is locked in a series of gravity-defying spasms (thanks in no small part, I suspect, to an off-screen Magic Wand) comes to mind. I was treated to a pair of gentlemen from Mainland China, sitting behind me, who made little effort to conceal their glee, chortling throughout every action scene and noisily shifting uncomfortably at the over-long romantic scenes (yours truly remained quite soft). I suppose I should consider myself fortunate that this was not a screening of "Avatar" as I had only just washed my hair. One Chinese behaviour I find particularly irksome is their tendency to provide voiceovers - when the lead male character would activate his anti-gravity boots, a Chinese gentleman would say, "he's floating!" and moments later during a boost-off, he would say, "he's flying!". That's not to say that I wasn't happy for them, one only has to view "The Monkey King" from '14 to understand the horror that Chinese audiences have escaped from.
+
+As for the film itself, perhaps the best adjective to describe it would be "masturbatory"; there's little doubt that this film exists as an amalgamation of the Wachowskis' collective fantasies. Audiences familiar with the brothers' previous works will recognise similar elements and action setpieces, ranging from the large-scale harvesting of humans, to produce a white youth-juice, to the use of powered mechanical suits, which assemble like Voltron, to shoot through endless hordes of machines. While this isn't the worst plot premise, it's ultimately discarded and unresolved in favour of a more traditional knight and damsel story. It would not be too cynical to assume that the conclusion was left open-ended to give room for a sequel or three.
+
+Some may find the actors to be over-the-top but I would describe them as unoffensive. Some may also argue that the simple enjoyment of a film's effects and action choreography are enough to render it a passing grade but I feel that we are a few years past the point where a high CG budget is enough to capture an audience's attention. Perhaps some of that CG power could be used to fix Mila Kunis' droopy left eyelid, upon which I found I spent much of the duration of the movie transfixed.
+

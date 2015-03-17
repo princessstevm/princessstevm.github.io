@@ -1,0 +1,23 @@
+---
+layout: post
+category: film
+title: Love Letter
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: 4 / 5
+
+As the first step in my forray into the filmography of Iwai Shunji, "Love Letter" is a story of serendipity and coincidence that transcends into fate. Just as the characters are swept away into the past, we too are drawn into Iwai's world: a winter wonderland in the upper reaches of Northern Japan. In tandem with the film's subdued mood, no cinematography that could be considered as outwardly manipulative is used to show off the frosty landscape but nevertheless, Iwai achieves this with a lingering camera that gives an air of wistfulness; I too felt as if I had left something behind there.
+
+We begin with Watanabe Hiroko who, years after his passing, writes the titular love letter to her deceased fiance, Fujii Itsuki. Part coincidence, part fate, her letter finds its way into the hands of one Fujii Itsuki - only that it's not her fiance but a woman who shares his name and, as we come to find out, much of his past. "Love Letter" is a story of people who linger in the past and their struggle to free themselves. For Hiroko, it's her departed lover; for Itsuki♀'s grandfather, it's his departed son and for Itsuki♂, a missed opportunity. Even though it's long gone, they all try to mend the regrets of the past and Iwai's message? It's not too late; bygones are not necessarily so.
+
+The screenplay is well written - there's drama but it's not dramatic. The film takes itself seriously; there is no waterfall, the emotions are muted and fall upon us gently like the snowflakes of Iwai's winter but it's never frosty, watching his characters reaching for each other is an exercise in heart warming. There is little subtlety in the dialogue, while many will enjoy its clarity and simplicity, not much is left to the imagination in "Love Letter" - as a whole, it's a somewhat didactic experience.
+
+"Love Letter" is complemented by a gentle piano soundtrack. Rather than being the focus, it's used to harmonise the characters' interactions, much like how the past begins to harmonise the characters' present. It flows like a peaceful river beside which the film is running - it's always there if you pay attention to it but never tries to intrude.
+
+Nakayama Miho, who plays both of the leading female characters, makes a commendable effort to deliver a melancholic performance without devolving into the melodrama and overacting that infects many an Asian drama. However, the film's structure necessitates the use of more junior actors to play the characters' younger counterparts and their inexperience can pull some of the more critical audiences out of the immersion. It's not all negative though - these teenagers do allow for some humourous scenes that would have otherwise been inappropriate for their older versions but perhaps this is Iwai's intent - that the past feels ever more alive when we feel subdued in the moment.
+
+Speaking of immersion, I'd promised myself to be less vindictive in reviews but I'll allow myself this - there is a certain male character who releases what I can only describe as the singularly most offensive sound produced by an ape, human or otherwise. While I'm confident that Iwai intended it as a form of human laughter, I would rank it only a few steps down from satanic and recommend an exorcism regardless. Its repetition over the duration of an otherwise hearty winter's drive is reminiscent of North Korea's incessant threats against Western society - how far can Iwai push the audience? To misappropriate the timeless phrase, I was on the edge of my seat.
+
+As an afterthought, I'd always imagined love letters to be an exercise in loftiness but Hiroko's first message has all the complexity of a child's scribbling in crayon. It seems that I've much to learn in this art so to my first Iwai Shunji film, I write my first love letter.
