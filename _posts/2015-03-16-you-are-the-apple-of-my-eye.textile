@@ -7,7 +7,7 @@ tags: ★★★☆☆
 
 h1. {{ page.title }}
 
-p(meta). Star rating: {{post.tags}}
+p(meta). Star rating: <span>{{post.tags}}</span>
 
 
 
