@@ -2,12 +2,12 @@
 layout: post
 category: film
 title: You Are the Apple of My Eye (2011)
-tags: ★★★★☆
+tags: ★★★☆☆
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★★★☆☆
+p(meta). Star rating: {{post.tags}}
 
 
 
