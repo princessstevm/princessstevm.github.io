@@ -2,7 +2,7 @@
 layout: post
 category: film
 title: Love Letter (1995)
-tags: ★★★★
+tags: "★★★★  "
 ---
 
 h1. {{ page.title }}
