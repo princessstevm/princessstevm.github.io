@@ -1,0 +1,35 @@
+---
+layout: post
+category: film
+title: You Are the Apple of My Eye (2011)
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ★★★
+
+
+
+What comes to mind when you think upon 1994?
+
+For me, it's the year of Disney's "The Lion King", the year of Faye Wong's wistful "Wo Yuan Yi", the year that the upbeat "Romance no Kamisama" missed the bull’s-eye on the Oricon charts and the year that Beyond could've, would've & should've hit the bull’s-eye on the Cantopop charts with another enduring classic - had the lead singer not passed away the previous year, taking the entire industry with him.
+
+"Could've". "Would've". "Should've".
+
+These are the three words that nobody wants in their vocabulary as Ko Ching-teng, played by Ko Chen-tung comes to learn in Taiwanese director Giddens Ko's "You Are the Apple of My Eye". It's a "will they or won't they" story, set in and reminiscing 1994, of the delinquent Ko Ching-teng and the model student, Shen Chia-yi, played by Michelle Chen. It's a story of changing yourself for someone else. Above all else - as the original Chinese title, "Those Bygone Years", suggests - it's a story of regret: regret of how we acted and regret of how we didn't.
+
+There's exposition and montage but it doesn't feel that way. Rather, it enhances the feeling of the years passing and within them, it's anything but expository. Giddens Ko puts much effort into adhering to the "show, don't tell" mantra; we're revealed the characters' budding relationships through intimate dialogue and body language. It feels natural and it feels real. As Shen Chia-yi helps Ko Ching-teng improve his grades, opposites attract - we know it and they know it too. There's little in the way of drama in the extreme sense; no tragedy strikes, their frictions and communion are purely a product of their own characters. They see past each other's flaws but are unable to overcome their own.
+
+It's clear than Giddens Ko intended "You Are the Apple of My Eye" to be a comfort watch for his audience. However, a byproduct of a soothing film is that it often encourages passivity - there's not many opportunities for us to delve into the film's message, it's quite unchallenging in that respect. That's not to say that the film is thematically barren, there are some thoughtful observations: that the thrill is in the hunt - that romance is not as powerful afterwards as it is right before you find your partner. It would've been interesting to explore this but as context would have it, it's exists more as a disingenuous throwaway line and vanishes just as suddenly as it comes out.
+
+The supporting cast often feels larger than life, Giddens Ko toes the line between playfulness and the caricatures that are typical of too many Chinese films & television shows - each of Ko Ching-teng has a distinct quirk that's almost always played for laughs. We follow this group as they come together in school and as they break apart afterwards but it's never as interesting as the main couple. Here, Giddens Ko bites off more than he can chew; there's not enough screentime to develop these side characters beyond their one-dimensionality and it becomes something of an irritation to see them deliver their same shticks over and over.
+
+It's a youthful film, saturated both in colour and comedy. The most prudish will find themselves agreeing with Mainland China's decision to censor much of the humour, which is closely in line with the sort that you'd find in a Western teenage sex comedy - there's numerous masturbation scenes that fall short of being funny but they do help set the mood and it's quite an enjoyable one. It's one of longing but not melancholic; one of lightheartedness but not flippant and on that note, it's a story of love but not lust.
+
+In this film soundtrack, its modernity becomes apparent; Giddens Ko is not manipulative to the degree of using mournful instrumentals. Instead, we're given a selection of original voiced songs. One song, "The Lonely Caffeine", was originally written by Giddens Ko, back in his youth, for the real world Shen Chia-yi - "You Are the Apple of My Eye" is based on the director's true story although to say that the film is an exaggeration would not be one. I didn't find the songs to be particularly noteworthy, they were quite ordinary apart from the theme song, the titular "Na Xie Nian." Following the film's release, it became quite a hit. To compare it with my most favoured original film song in recent years, it's not quite "Lost Stars" but still somewhat catchy if you forgive its overproduction.
+
+I'm always on the lookout for soulful lines when I'm sitting through romantic movies and in that respect, I found my viewing of "You Are the Apple of My Eye" quite rewarding. "I didn't feel loved by him, after being loved by you". Sadly, I'll not likely be able to ever say it, by account of my gender, but it gives me solace in that if I'm to be condemned to samsara, there'll come a time when I'll be in the appropriate reincarnation to make use of it. I won't remember the film then but I want to so I'll make up for it in this lifetime - I'll remember "You Are the Apple of My Eye" and I'll remember 1994.
+
+_That year._
+
+_Those years._

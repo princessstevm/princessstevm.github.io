@@ -1,0 +1,27 @@
+---
+layout: post
+category: film
+title: Virgin Snow (2007)
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ★
+
+
+
+"Virgin Snow" is a middle-of-the-road joint venture between Korean director Han Sang-hye and Japanese screenwriter Ban Kazuhiko that's perhaps marred by the very cross-cultural miscommunication that it uses as the centerpiece of its romance story. As a testament to the tired adage, "beauty is only skin deep", the film snaps up physically attractive stars from both countries but this does little to remedy its core flaw - that a mishmash of cross-genre tropes creates a mixture that's anything but consistent.
+
+Leaving your country isn't always an easy decision but Min, played by Lee Joon-gi, shows us that all you need to take your mind off Korea is to fall for a local - a local girl, that is, despite what his androgynous appearance might suggest. He looks around quite arbitrarily and finds himself beholding Nanae, played by Miyazaki Aoi. There's no cat & mouse game here - no "will they or won't they" - it's love at first sight and to the credit of director Han, "Virgin Snow" has no issues when it comes to pacing.
+
+Every romance has a central theme around which the characters dance and here, to nobody’s surprise, it's their struggle to communicate with each other. Neither premise nor characters is particularly endearing or interesting. In fact, the film never quite explains to us why they're interested in each other; they don't share any interests or have anything in common (besides being attractive, of course). There is, however, a small opportunity for us to join in the fun when they teach each other their respective languages. I'd already learned that "rain" was "ame" in Japanese from the 2012 film, "Wolf Children", but I now know that it's "bi" in Korean. I'm not convinced that learning this was worth the hour and fourty minutes I invested into this viewing but it's better than nothing.
+
+Of course, all is not well. In attempt to bring an edge to the film, Nanae has to go home to an abusive household and if there's one thing that brings a quick halt to a budding romance, it's the threat of being strangled to death by your mother's new boyfriend. In a surprising act of feminist will, Nanae takes her sister and leaves. We're never told whether her mother survives the duration of the film; this not-so-mild complication exists solely as a vehicle to move the plot along and is never resolved. At the same time, Min is also drawn back to Korea and as he becomes unaware of Nanae's flight and subsequent whereabouts, they are separated.
+
+It's here that the film suffers from what's commonly known as an "idiot plot". Nanae could've easily communicated her situation through one of many means: telling a mutual friend, telling the school or perhaps telling it straight to Min's face when they find themselves fatefully face-to-face a number of years later. The onus finally falls upon a small red pocket that Nanae had given Min before their tragic separation. Thankfully, our characters are not Chinese: instead of money, it's a love letter with a six point plan on how to reunite (I'll spoil the joke – there’s only one point). Why didn't he read the letter earlier, you ask? You'll find out when you view this film and it's a real test of one's suspension of disbelief.
+
+Aside from the film's story, "Virgin Snow" tries to initially establish itself as a comedy. Much of this comes in the form of visual gags coming from our lead male, Min. Perhaps influenced in no small part by my distaste for this particular subgenre in Asian comedy, I was not impressed by Lee Joon-gi's playful facial expressions - my fixation on his androgynous aesthetic quickly turned into mild infuriation. Han San-hye did his film no favours by including this idiotic comedy, without which I could have easily taken "Virgin Snow" seriously.
+
+There’s little in the way of "art" in “Virgin Snow.” The soundtrack is ordinary, as is its cinematography. The film exists as a combination of previously established staples of Asian cinema and with respect to this, it’s inoffensive.
+
+It's not quite clear what "Virgin Snow" tries to achieve. Han Sang-hye drinks a soup of weak comedy, uninteresting romance, bland characters and unresolved tensions. What comes out the other end is just about what you'd expect - an unambitious undertaking that doesn't quite take advantage of its multicultural background. It doesn't smell as bad as it could have; it's very ordinary which, for films, is perhaps even more criminal - one quick flush and it's a quick fade into obscurity for "Virgin Snow."

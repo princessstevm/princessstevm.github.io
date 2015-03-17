@@ -1,12 +1,14 @@
 ---
 layout: post
 category: film
-title: Love Letter
+title: Love Letter (1995)
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: 4 / 5
+p(meta). Star rating: ★★★★
+
+
 
 As the first step in my forray into the filmography of Iwai Shunji, "Love Letter" is a story of serendipity and coincidence that transcends into fate. Just as the characters are swept away into the past, we too are drawn into Iwai's world: a winter wonderland in the upper reaches of Northern Japan. In tandem with the film's subdued mood, no cinematography that could be considered as outwardly manipulative is used to show off the frosty landscape but nevertheless, Iwai achieves this with a lingering camera that gives an air of wistfulness; I too felt as if I had left something behind there.
 
