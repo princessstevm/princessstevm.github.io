@@ -7,9 +7,7 @@ tags: ★★★☆☆
 
 h1. {{ page.title }}
 
-p(meta). Star rating: <span>{{post.tags}}</span>
-
-
+p(meta). Star rating: ★★★☆☆
 
 What comes to mind when you think upon 1994?
 

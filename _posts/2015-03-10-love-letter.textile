@@ -9,8 +9,6 @@ h1. {{ page.title }}
 
 p(meta). Star rating: ★★★★☆
 
-
-
 As the first step in my forray into the filmography of Iwai Shunji, "Love Letter" is a story of serendipity and coincidence that transcends into fate. Just as the characters are swept away into the past, we too are drawn into Iwai's world: a winter wonderland in the upper reaches of Northern Japan. In tandem with the film's subdued mood, no cinematography that could be considered as outwardly manipulative is used to show off the frosty landscape but nevertheless, Iwai achieves this with a lingering camera that gives an air of wistfulness; I too felt as if I had left something behind there.
 
 We begin with Watanabe Hiroko who, years after his passing, writes the titular love letter to her deceased fiance, Fujii Itsuki. Part coincidence, part fate, her letter finds its way into the hands of one Fujii Itsuki - only that it's not her fiance but a woman who shares his name and, as we come to find out, much of his past. "Love Letter" is a story of people who linger in the past and their struggle to free themselves. For Hiroko, it's her departed lover; for Itsuki♀'s grandfather, it's his departed son and for Itsuki♂, a missed opportunity. Even though it's long gone, they all try to mend the regrets of the past and Iwai's message? It's not too late; bygones are not necessarily so.

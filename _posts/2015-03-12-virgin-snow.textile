@@ -9,8 +9,6 @@ h1. {{ page.title }}
 
 p(meta). Star rating: ★☆☆☆☆
 
-
-
 "Virgin Snow" is a middle-of-the-road joint venture between Korean director Han Sang-hye and Japanese screenwriter Ban Kazuhiko that's perhaps marred by the very cross-cultural miscommunication that it uses as the centerpiece of its romance story. As a testament to the tired adage, "beauty is only skin deep", the film snaps up physically attractive stars from both countries but this does little to remedy its core flaw - that a mishmash of cross-genre tropes creates a mixture that's anything but consistent.
 
 Leaving your country isn't always an easy decision but Min, played by Lee Joon-gi, shows us that all you need to take your mind off Korea is to fall for a local - a local girl, that is, despite what his androgynous appearance might suggest. He looks around quite arbitrarily and finds himself beholding Nanae, played by Miyazaki Aoi. There's no cat & mouse game here - no "will they or won't they" - it's love at first sight and to the credit of director Han, "Virgin Snow" has no issues when it comes to pacing.
