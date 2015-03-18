@@ -26,5 +26,10 @@ title: im write movie
     {% for post in site.categories.novelty %}
       <li><span>{{ post.date | date_to_string }} | {{post.tags}}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-	
+    
+  <h1>Miscellaneous</h1>
+    <ul class="posts">
+    {% for post in site.categories.misc %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
 </div>
