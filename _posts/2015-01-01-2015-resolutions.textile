@@ -1,0 +1,23 @@
+---
+layout: post
+category: novelty
+title: 2015 New Year's Resolutions checklist
+tags: ☆☆☆☆☆
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ☆☆☆☆☆
+
+- #1 ??? := 0/1 completed
+- #2 Write 12 film reviews := 3/12 completed
+- #3 ??? := 0/1 completed
+- #4 Do 12 pushups := 12/12 completed
+- #5 ??? := 0/12 completed
+- #6 Read 12 books := 8/12 completed
+- #7 Find $12 in loose change on the ground := 0/12 completed
+- #8 ??? := failed
+- #9 Eat at restaurants with a total of 12 Michelin stars := 0/12 completed
+- #10 Jog 12 kilometers without stopping := 0/12 completed
+- #11 Gain 12 kilos := 0/12 completed
+- #12 ??? := 0/1 completed
