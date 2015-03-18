@@ -9,6 +9,8 @@ h1. {{ page.title }}
 
 p(meta). misc
 
+Decision criteria : nice sounding name, nice looking poster.
+
 # KR
 ** A Moment to Remember
 ** Christmas in August
