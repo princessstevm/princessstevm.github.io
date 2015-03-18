@@ -1,13 +1,13 @@
 ---
 layout: post
-category: novelty
+category: misc
 title: 2015 New Year's Resolutions checklist
-tags: ☆☆☆☆☆
+tags:
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ☆☆☆☆☆
+p(meta). misc
 
 # ???
 ** 0/1 completed
