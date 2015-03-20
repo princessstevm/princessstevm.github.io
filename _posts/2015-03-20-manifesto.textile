@@ -1,0 +1,20 @@
+---
+layout: post
+category: misc
+title: 2015 New Year's Resolutions checklist
+tags:
+published: no
+---
+
+h1. {{ page.title }}
+
+p(meta). misc
+
+
+names
+western: lydia, claudia, annabel, audrey, diana, beatrice
+european (inc. scandinavian): brunhild, lars, johannes (+ variants),
+consistent: 
+indian: indra
+japanese: manami, naomi, nanami, tomomi, kiyoko. worst: hitomi, junko, shouta
+russian: stanislav, vladimir, natasha/natalya
