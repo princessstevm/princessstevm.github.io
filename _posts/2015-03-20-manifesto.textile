@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title: 2015 New Year's Resolutions checklist
+title: Manifesto.
 tags:
 published: no
 ---
@@ -10,11 +10,17 @@ h1. {{ page.title }}
 
 p(meta). misc
 
+I write for purely narcissistic reasons. I don't feel that I've anything particularly noteworthy to say nor do I think highly of my writing ability but for me, at least, writing excessively is the path of least resistance.
+
+It's been made known to me that I'm something of a blabbermouth when it comes to written communication - that I write more than I read and that I've a tendency to flood group chats. It often seems like I don't really care about what others have to say and that replies are just a vehicle for me to self-indulge in more writing but this could not be further from the truth. The truth is that when I read what others have written, I do care; I look at it as if it were a piece of artwork. Of course, it likely has the quality of a toddler's magnum opus drawn in second-hand crayon but think of what that toddler's parents feel. To them, it's something special; they'll fold it up, lock it up and cherish it at childhood's end.
+
+The key difference is that I'm not anyone's parent; why should I care what you have to say? The crux of it is that I've always looked at writing as a form of content creation, even when the purpose of it is simple communication. There's an sense of permanence when it comes to written word - what you say out loud will come and go but writing lingers, it's tangible. You won't remember saying "hello" on a wintry morning of '99 but maybe you'll find something to that effect on a old crumpled post-it note on the floor of your attic and think "hey, I wrote that!" So I do care what you have to say, even if I don't like or know you. Just like uncountable Rowling fans will line up for a short message on the cover of their not-first-edition books, I'm lining up for yours; I'm a fan of you.
+
+I suppose that brings me back to why I write. I hold no hope that my words will bring me money. I hold no hope that my words will bring me fame. I like to think that if those were the cases, I'd put a considerable effort into actually learning how to write properly instead of continuing with my natural mishmash style. I can only conclude that it's because writing feels productive for me - I'm "making" something. It might be that future civilisations will stumble upon my musings and study them as a fun activity in ancient history so to them, I have this to say: "hello." 
 
 names
-western: lydia, claudia, annabel, audrey, diana, beatrice
-european (inc. scandinavian): brunhild, lars, johannes (+ variants),
-consistent: 
+western: lydia, claudia, annabel (spelling not optional), audrey, diana (marginal), beatrice (original pronunciation)
+european (inc. scandinavian): brunhild (for boats), lars, johannes (+ variants),
 indian: indra
 japanese: manami, naomi, nanami, tomomi, kiyoko. worst: hitomi, junko, shouta
 russian: stanislav, vladimir, natasha/natalya
