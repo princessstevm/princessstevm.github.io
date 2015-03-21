@@ -7,8 +7,6 @@ tags:
 
 h1. {{ page.title }}
 
-p(meta). misc
-
 # ???
 ** 0/1 completed
 # Write 12 film reviews

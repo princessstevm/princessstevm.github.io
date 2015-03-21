@@ -7,8 +7,6 @@ tags:
 
 h1. {{ page.title }}
 
-p(meta). misc
-
 I write for purely narcissistic reasons. I don't feel that I've anything particularly noteworthy to say nor do I think highly of my writing ability but for me, at least, writing is the path of least resistance.
 
 It's been made known to me that I'm something of a blabbermouth when it comes to written communication - that I write more than I read and that I've a tendency to flood group chats. It often seems like I don't really care about what others have to say and that replies are just a vehicle for me to self-indulge in more writing but this could not be further from the truth. The truth is that when I read what others have written, I do care; I look at it as if it were a piece of artwork. Of course, it likely has the quality of a toddler's magnum opus drawn in hand-me-down crayon but think of what that toddler's parents feel. To them, it's something special; they'll fold it up, lock it up and cherish it at childhood's end.

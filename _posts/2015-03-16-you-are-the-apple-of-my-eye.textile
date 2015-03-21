@@ -9,6 +9,8 @@ h1. {{ page.title }}
 
 p(meta). Star rating: ★★★☆☆
 
+!/images/YouAreAppleMyEye.png!
+
 What comes to mind when you think upon 1994?
 
 For me, it's the year of Disney's "The Lion King", the year of Faye Wong's wistful "Wo Yuan Yi", the year that the upbeat "Romance no Kamisama" missed the bull’s-eye on the Oricon charts and the year that Beyond could've, would've & should've hit the bull’s-eye on the Cantopop charts with another enduring classic - had the lead singer not passed away the previous year, taking the entire industry with him.
