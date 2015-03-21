@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title: Manifesto.
+title: Manifesto AKA diary entry 001.
 tags:
 ---
 
