@@ -34,9 +34,8 @@ p(meta). misc
 # ???
 ** 0/1 completed
 
-.p
-.p
-h2. Films for potential reviewing
+
+h1. Films for potential reviewing
 
 Decision criteria: nice sounding name, nice looking poster.
 
