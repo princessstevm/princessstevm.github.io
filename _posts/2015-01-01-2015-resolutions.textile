@@ -33,3 +33,39 @@ p(meta). misc
 ** 0/12 completed
 # ???
 ** 0/1 completed
+
+.p
+.p
+h2. Films for potential reviewing
+
+Decision criteria: nice sounding name, nice looking poster.
+
+# KR
+** A Moment to Remember
+** Christmas in August
+** Daisy
+** Miracle in Cell No. 9
+** My Sassy Girl
+** Once in a Summer
+** Samaritan Girl
+** Spring, Summer, Fall, Winter... and Spring
+** The Way Home
+
+# JP
+** A Gentle Breeze in the Village
+** Hana and Alice
+** Kabei: Our Mother
+** Memories of Matsuko
+** Moonlight Whispers
+** One Million Yen Girl
+** The Twilight Samurai
+** Tokyo Story
+
+# CN
+** As Tears Go By
+** Eat Drink Man Woman
+** Farewell My Concubine
+** In the Mood for Love (rewatch)
+** Pushing Hands
+** Tuya's Marriage
+** The Wedding Banquet
