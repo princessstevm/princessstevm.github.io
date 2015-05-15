@@ -2,12 +2,12 @@
 layout: post
 category: film
 title: '[Mini] Unfriended (2015)'
-tags: ★★★
+tags: ★★★☆☆
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★★★
+p(meta). Star rating: ★★★☆☆
 
 I'd originally wanted to view "While We're Young" in this time slot but "Unfriended" was airing in the larger Vmax cinema which is atypical of films in the horror genre. I'm not convinced that "Unfriended" is deserving of being made as a feature-length film - it's wholly reliant on a gimmick that's not quite original and sabotages its own tension, leaving behind an experience that quickly becomes a chore.
 
