@@ -2,12 +2,12 @@
 layout: post
 category: film
 title: '[Mini] Insurgent (2015)'
-tags: ★½ 
+tags: ★½☆☆☆ 
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★½ 
+p(meta). Star rating: ★½☆☆☆ 
 
 I'd a hard time containing my apathy for "Insurgent." As a laggard in the list of young-adult dystopian film adaptations, I expected "Insurgent" to be rather trite but it struggled to achieve even that. It's a never ending cycle of "will-they-or-won't-they" - not in the traditional romantic sense but with the same dreary effect.
 
