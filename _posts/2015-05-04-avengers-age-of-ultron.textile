@@ -2,12 +2,12 @@
 layout: post
 category: film
 title: '[Mini] Avengers: Age of Ultron (2015)'
-tags: ★★★ 
+tags: ★★★☆☆ 
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★★★
+p(meta). Star rating: ★★★☆☆
 
 I felt that the ideological differences between Stark & Banner and the other Avengers could've been the catalyst for some interesting conflicts within the team on how to combat future threats but these tensions leave as hurriedly as they arrive. Whereas the development of teamwork & cohesion was a memorable part of the first Avengers film, "Age of Ultron" only makes a half-hearted attempt through the use of the Scarlet Witch character (Elizabeth Olsen), who waves around the sign of the horns to induce nightmares in each of the Avengers.
 
