@@ -1,0 +1,18 @@
+---
+layout: post
+category: film
+title: [Mini] Insurgent (2015)
+tags: ★½ 
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ★½ 
+
+I'd a hard time containing my apathy for "Insurgent." As a laggard in the list of young-adult dystopian film adaptations, I expected "Insurgent" to be rather trite but it struggled to achieve even that. It's a never ending cycle of "will-they-or-won't-they" - not in the traditional romantic sense but with the same dreary effect.
+
+The film's narrative is a string of situations where Tris Prior (Shailene Woodley) and her ever-shifting entourage are caught, escape, are caught again, escape again and so on Ad Nauseam. Unsurprisingly, "Insurgent" is something of a Dead Weight, made with the purpose of leading into the final novel which, following the trend of recent trilogies, will be split into two parts - Ansel Elgort is just one victim of this process. His character, Caleb, doesn't serve any immediate purpose in "Insurgent" and is often seen standing in the corner with the animation of a log. Our protagonists are in search of the dystopian equivalent of the holy grail - a message in a bottle with the power to bring hope or despair. The "Divergent" series is fairly strong in its adherence to the genre and so the film has a hard time maintaining any form of tension or narrative intrigue.
+
+Following in the footsteps of the source material, there were some problems with the story that come about as a result of its expository development of the Tris character. Minions of "Insurgent's" chief villainess, played by Kate Winslet, implant mind-control devices in some of the population during their search for Tris. Seemingly at a loss as to what to do next, she takes advice from a traitorous member of Tris's troupe - we're told that Tris is a bleeding heart and using the mind-controlled civilians, who can be compelled to suicide, is a sure-fire way to convince our heroine to give herself up. We've seen that the film's villains are partial to more heavy-handed methods so it makes me wonder why the turned civilians could not be forced to relay their and Tris's locations back to headquarters at the earliest opportunity.
+
+Nitpicking aside, I could not help but be reminded of "The Fault in Our Stars" during the appearances of Shailene Woodley and Ansel Elgort together in "Insurgent". Incidentally, a trailer of the film adaptation of another one of John Green's books, "Paper Towns," was shown earlier and sadly, I consider that to be the best minute of my viewing of "Insurgent."
