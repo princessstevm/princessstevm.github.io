@@ -1,7 +1,7 @@
 ---
 layout: post
 category: film
-title: Insurgent (2015)
+title: '[Mini] Insurgent (2015)'
 tags: ★½ 
 ---
 
