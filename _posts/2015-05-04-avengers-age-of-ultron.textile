@@ -1,7 +1,7 @@
 ---
 layout: post
 category: film
-title: |MINI| Avengers: Age of Ultron (2015)
+title: MINI Avengers: Age of Ultron (2015)
 tags: ★★★
 ---
 
