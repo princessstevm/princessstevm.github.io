@@ -1,0 +1,18 @@
+---
+layout: post
+category: film
+title: [Mini] Avengers: Age of Ultron (2015)
+tags: ★★★
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ★★★
+
+I felt that the ideological differences between Stark & Banner and the other Avengers could've been the catalyst for some interesting conflicts within the team on how to combat future threats but these tensions leave as hurriedly as they arrive. Whereas the development of teamwork & cohesion was a memorable part of the first Avengers film, "Age of Ultron" only makes a half-hearted attempt through the use of the Scarlet Witch character (Elizabeth Olsen), who waves around the sign of the horns to induce nightmares in each of the Avengers.
+
+While each of their insecurities are brought out, Bruce Banner is given special attention and his fear of ripping apart Natasha Romanoff (Scarlett Johansson) pulls him back from their romance. Considering the genre of the film, this sort of relationship is in line with what you'd expect - she's a source of catharsis for the Hulk, a bit like "Beauty and the Beast." It's nothing groundbreaking - other superhero lovers like Jean Grey and Kitty Pryde come to mind - and there doesn’t seem to be a clear direction for the Natasha Romanoff character. Her relegation to being a love interest seems to be a devolution of the role she’s played in previous films like “Captain America: The Winter Soldier” (2014).
+
+Marvel is habitually disappointing when it comes to their villains and "Age of Ultron" doesn't try to break the mold. Ultron is your typical rogue A.I. and after uploading himself to the Internet, it would've done him some good to do some research to innovate his motivations. As an action villain, he’s uninteresting and largely delegates combat to endless hordes of minions which is as tiring for the viewer as it is for the Avengers.
+
+I've always looked forward to the quippy chitchat that seems to be a shared superpower across many of our heroes but here, I struggle to remember a single one. All the jokes, which now feel incredibly forced, fell flat and throughout the screening that I attended, the audience remained silent. Naturally, the visual effects and production values were premium but in this day and age, that's no longer special. The film makes little effort to draw out the potential of such a large superhero roster - outside of the beginning action sequence, they never really play off each other. The director, Joss Whedon, seems content to have them flying solo against Ultron’s minions - there’s not much in the way of synergy between the heroes. It could be said that it isn’t easy to work with a superhero team whose powers largely consist of being able to hit things really hard and be hit really hard but it doesn’t help that the action set pieces are largely recycled. Big city destruction never feels consequential - we’ve been to this playground before and we’ve done it before.
