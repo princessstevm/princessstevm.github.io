@@ -2,12 +2,12 @@
 layout: post
 category: film
 title: Begin Again (2014)
-tags: ★★★★ 
+tags: ★★★★☆ 
 ---
 
 h1. {{ page.title }}
 
-p(meta). Star rating: ★★★★ 
+p(meta). Star rating: ★★★★☆ 
 
 As the spiritual successor to director John Carney’s earlier “Once” (2007), “Begin Again” (2014) is dripping with self-awareness - it concerns itself with artistic authenticity and the (un)popular idea of “selling out.” The film often comes across as apologetic, on behalf of both Carney and Maroon 5 frontman Adam Levine, who plays the the up-and-coming singer, Dave Kohl, but despite losing some of the intimacy of “Once,” the more-produced, more Hollywood-y “Begin Again” still manages to infuse itself with a kind of candid whimsy and sweetness. 
 
