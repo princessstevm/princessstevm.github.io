@@ -1,0 +1,26 @@
+---
+layout: post
+category: film
+title: Begin Again (2014)
+tags: ★★★★ 
+---
+
+h1. {{ page.title }}
+
+p(meta). Star rating: ★★★★ 
+
+As the spiritual successor to director John Carney’s earlier “Once” (2007), “Begin Again” (2014) is dripping with self-awareness - it concerns itself with artistic authenticity and the (un)popular idea of “selling out.” The film often comes across as apologetic, on behalf of both Carney and Maroon 5 frontman Adam Levine, who plays the the up-and-coming singer, Dave Kohl, but despite losing some of the intimacy of “Once,” the more-produced, more Hollywood-y “Begin Again” still manages to infuse itself with a kind of candid whimsy and sweetness. 
+
+In a lot of ways, “Begin Again” is about resisting the lure of commercialisation and maintaining a form of purity in personal expression. It’s about the coming together of Dan (Mark Ruffalo) and Gretta (Keira Knightley) to produce an authentic record in an era where music is heavily produced to sate the masses. We start with the struggles of Dan who, despite founding his own record label, is becoming increasingly sidelined in the business following his refusal to sign on modern artists who he sees as overly-produced and disingenuous. Seeking the comfort of a bar in NYC, we learn that he “sees” things when he’s drunk but it’s a magical kind of schizophrenia - more of a harmonic synesthesia. When Gretta takes the stage, we see accompanying instruments come alive in a display of phantasmic puppetry and their partnership moves towards reality.
+
+Gretta is the foil to her partner, Dave Kohl (Adam Levine), who mirrors his real life self. He chooses the other road towards stardom and it’s reflected in his music, it’s the departure from “Songs for Jane” to “Overexposed.” The film does become a little expository - we spend time with Levine as he justifies himself and his desire to be a “somebody.” Commentary on the music industry doesn’t end there - the film does become a little heavy handed when Dan & Gretta sell their album for $1 and brag about it.
+
+To add to the preachiness of “Begin Again,” Dan’s daughter, Violet (Hailee Steinfeld), comes along for the ride. In scenes reminiscent of teenage dramedies, she’s lectured on her choice of clothes; Gretta shows off something of a motherly surrogacy and tells her to dress more conservatively - if he’s worth it, he’ll come anyway and value you all the more for it.
+
+The growing divide between Knightley and Levine’s characters is largely explored through their renditions of the song “Lost Stars.” In the early days of their relationship, Gretta’s acoustic rendition is the closest the track comes to “Falling Slowly” from “Once” (2007) which, I’ll admit, I’m not a big fan of as it’s too saccharine. As Dave is drawn towards the limelight, his renditions become almost obnoxious. It’s meant to denounce the overproduction of songs but “Begin Again” gets a little carried away and “Lost Stars - Into The Night Mix” is comically over-the-top. The two-note accompaniment (think Alberti bass without the third note) was just too much.
+
+The pearl of “Begin Again” is the final cover of “Lost Stars” by Levine. I’ve never paid much attention to Maroon 5, even in the days of “Songs for Jane”, but I found myself enjoying the upper ranges of his voice. It never really stood a chance for Best Original Song - “Glory” was just too thematically charged and, dare I say it, topical. Gretta watches on as Dave becomes bigger than her but it more bittersweet than, say, Patrick Bruel’s live performances of “J'te l'dis quand même.” It’s a sentiment echoed by fans of artists that went mainstream - that they’re no longer yours.
+
+It’s amusing that “Begin Again” is so apologetic of itself for becoming more produced when it doesn’t really try to mask the contrivance of its street performances. Even the hard of hearing can identify the soundstage of these songs as that of a recording studio’s; at no point does the film make a serious effort to portray the band as actually being on the streets of New York. On the other hand, other street scenes have convincing sound - there’s always a dim city buzz in the background and there’s no offensive ADR. The only fault I noticed was a cafe scene with Dan & Gretta and an out-of-sync trombone busker in the background.
+
+The coming together of this patchwork street band is a heartwarming affair. The film’s a little too artificial to truly be cathartic but for the most part, the characters are likeable and seeing them come together - seeing them heal each other and repair their relationships through music - never becomes tiring. Despite being heavy handed with its message at times, “Begin Again” is a complete package - it loses the raw sentimentality of “Once” (2007) and replaces it with a sweet playfulness. The result is my pick for the easy watching, feel-good, comfort pick from 2014 - it’s more “Watch Again” than “Once Again.”
